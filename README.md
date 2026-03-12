@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi there!
 
-<!--
-**KineKE/KineKE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Kine, an IT student at OsloMet graduating June 2026 with a strong interest in backend development, systems thinking and structured software design.
 
-Here are some ideas to get you started:
+I originally started programming through biological data analysis and bioinformatics. My programming journey started in R and R Markdown, before moving onto Python, working with reproducible reports, visualization, and domain-heavy datasets. Over time, that grew into an interest in object-oriented programming, APIs, protocol logic, systems thinking, databases and backend-oriented development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Right now, I am especially interested in:
+- Java and backend development
+- APIs and database design
+- Systems-oriented programming
+- Architecture, structure, and technical problem solving
+
+## Selected projects
+- Reliable transport protocol on top of UDP sockets in Python (2025)
+- BioSim ecosystem simulation in Python (2022)
+- Early Python projects using PyQt and SQLite (2022)
+- Data analysis projects in R/R Markdown (2020 - 2024)
+
+## Current direction
+- My bachelor thesis work involves building an internal certification platform with C#/.NET, EF Core, React/Vite, and PostgreSQL in collaboration with industry.
+- I'm currently building toward backend and system-oriented roles, with Java as my main portfolio direction.
