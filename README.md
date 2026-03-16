@@ -16,6 +16,8 @@ Right now, I am especially interested in:
 - Early Python projects using PyQt and SQLite (2022)
 - Data analysis projects in R/R Markdown (2020 - 2024)
 
+<!--
 ## Current direction
 - My bachelor thesis work involves building an internal certification platform with C#/.NET, EF Core, React/Vite, and PostgreSQL in collaboration with industry.
 - I'm currently building toward backend and system-oriented roles, with Java as my main portfolio direction.
+-->
