@@ -10,14 +10,14 @@ Right now, I am especially interested in:
 - Systems-oriented programming
 - Architecture, structure, and technical problem solving
 
+## Current direction
+- My bachelor thesis work involves building an internal certification platform with C#/.NET, EF Core, React/Vite, and PostgreSQL in collaboration with industry.
+- I'm currently building toward backend and system-oriented roles, with Java as my main portfolio direction.
+
+<!--
 ## Selected projects
 - Reliable transport protocol on top of UDP sockets in Python (2025)
 - BioSim ecosystem simulation in Python (2022)
 - Early Python projects using PyQt and SQLite (2022)
 - Data analysis projects in R/R Markdown (2020 - 2024)
-
-<!--
-## Current direction
-- My bachelor thesis work involves building an internal certification platform with C#/.NET, EF Core, React/Vite, and PostgreSQL in collaboration with industry.
-- I'm currently building toward backend and system-oriented roles, with Java as my main portfolio direction.
 -->
